@@ -58,7 +58,7 @@ Remove student records.
 * File Handling
 * CRUD Operations
 
-* ##Project output
+* ## Project output
 * screenshot of the student management system are available in this repository.
 
 ## Author
